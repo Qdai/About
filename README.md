@@ -6,6 +6,6 @@ This is __Unofficial__ account.
 
 Alert information about cancellation of a lecture.
 
- - Site: [kyukou-kyudai](http://kyukou-kyudai.rhcloud.com/)
+ - Site: [kyukou-kyudai](https://kyukou-kyudai.herokuapp.com/)
  - Source: [Qdai/kyukou](https://github.com/Qdai/kyukou)
  - Twitter: [@kyukou_kyudai](https://twitter.com/kyukou_kyudai)
